@@ -1,5 +1,7 @@
 # Lain 16
 
+**L**AIN's **A**rchitectural **I**nstructio**N**
+16: 16 Bit, 24 bit address
 ## registers
 PC0: (32)24 bit Program Counter
 PC1: 32(24) bit Interrupt Handler Program Counter
